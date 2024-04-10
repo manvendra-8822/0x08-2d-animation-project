@@ -1,4 +1,4 @@
 # 0x08 : 2D Animations (Project) #
 
-![](./assets/storyboard.png)
+![](./assets/storyboard.jpeg)
 
